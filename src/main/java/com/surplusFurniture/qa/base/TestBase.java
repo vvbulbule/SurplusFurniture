@@ -27,6 +27,7 @@ public class TestBase {
 	public static SeleniumDropdownHandling  seleniumDropdownHandling; 
 	
 	public TestBase(){
+		
 		try{
 			prop= new Properties();
 			//FileInputStream ip =new FileInputStream("/home/vbulbule/git/AutomationFramework/AutomationFrameWork/src/main/java/com/automation/qa/config/config.properties");
